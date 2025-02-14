@@ -135,8 +135,8 @@ This is a comprehensive and challenging backend system test! Below, I’ll break
 **CODE**
 //SIGNUP:
 {
-  "name": "Quame",
-  "email": "Quame@hospital.com",
+  "name": "John Doe",
+  "email": "John@hospital.com",
   "password": "password123",
   "role": "Patient"
 }
@@ -146,7 +146,7 @@ This is a comprehensive and challenging backend system test! Below, I’ll break
 }
 //LOGIN:
 {
-  "email": "Quame@example.com",
+  "email": "John@example.com",
   "password": "password123"
 }
 //Response:
@@ -165,13 +165,13 @@ This is a comprehensive and challenging backend system test! Below, I’ll break
 //Doctor Patient List:
 {
   "patients": [
-    { "id": "uuid", "name": "Quame" }
+    { "id": "uuid", "name": "John Doe" }
   ]
 }
 //Doctor Patient List:
 {
   "patients": [
-    { "id": "uuid", "name": "Quame" }
+    { "id": "uuid", "name": "John Doe" }
   ]
 }
 //Doctor Notes & Actionable Steps
